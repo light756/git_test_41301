@@ -4,3 +4,4 @@
   003_to_gitee
   004_to github
   005_to_gitee
+  006_only_github
